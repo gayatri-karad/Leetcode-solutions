@@ -2,7 +2,7 @@ class Solution {
 public:
 
     bool isPalindrome(string s) {
-        //isalnum() is a function in td library to check fir alphanumeric n
+        //isalnum() is a function in std library to check for alphanumeric n
          int start=0,end=s.length()-1;
         while(start<end){
         if(!isalnum(s[start])){ //if(iaAlphanumeric will check if the character is alphanumeric...but we want to check when its not so ! this is written)
