@@ -62,6 +62,7 @@
 | [0011-container-with-most-water](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
