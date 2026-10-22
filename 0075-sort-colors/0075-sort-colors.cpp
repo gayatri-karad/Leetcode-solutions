@@ -1,29 +1,22 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-    //we can do by brute force using sort(nums.begin(), nums.end()) which has time complexity of nlogn but this isnt allowed
-    int czero=0;
-    int cone=0;
-    int ctwo=0;
-    for(int i=0;i<nums.size();i++){
-        if(nums[i]==0){
-            czero++;
-        }
-        if(nums[i]==1){
-            cone++;
-        }
-        if(nums[i]==2){
-            ctwo++;
-        }
+    //by Dutch National Flag Algorithm..we can sort it in O(n) time complexity but only with a single pass...previoulsy the time complexity
+    //was same same but we had to give two passes (pass means loop) 
+    int low=0;
+    int mid=0;
+    int high=nums.size()-1;
+    while(mid<=high){
+        if(nums[mid]==0){
+            swap(nums[low],nums[mid]);
+            low++;
+            mid++;
+         }else if(nums[mid]==1){
+            mid++;
+         }else {
+            swap(nums[high],nums[mid]);
+            high--;
+         }
     }
-       for(int i=0;i<czero;i++){
-        nums[i]=0;
-       } 
-       for(int i=czero;i<czero+cone;i++){
-        nums[i]=1;
-       } 
-       for(int i=czero+cone;i<czero+cone+ctwo;i++){
-        nums[i]=2;
-       } 
     }
 };
