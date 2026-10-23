@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0344-reverse-string) |
@@ -63,6 +64,7 @@
 | [0011-container-with-most-water](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
