@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
