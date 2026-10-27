@@ -25,7 +25,7 @@ bool validrow(vector<vector<int>>& matrix, int target,int midrow){
         int endr=m-1;
         while(str<=endr){
         int mid=str+(endr-str)/2;
-            if(target>=matrix[mid][0] && target<=matrix[mid][n-1]){
+         if(target>=matrix[mid][0] && target<=matrix[mid][n-1]){//means target exists in the midrow so  again apply binary search in midrow
             return validrow(matrix,target,mid);
              
             }else if(target>matrix[mid][n-1]){
