@@ -28,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -128,6 +130,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gayatri-karad/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
